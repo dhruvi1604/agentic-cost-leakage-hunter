@@ -1,0 +1,19 @@
+{
+    "file_id": "saas_Q1_20260304_134257_fc36be",
+    "timestamp": "2026-03-04T13:42:57.824173",
+    "summary": {
+        "total_spend": 671702789.74,
+        "financial_exposure": 21252440.06,
+        "recoverable_savings": 12751464.01,
+        "exposure_pct": 3.16,
+        "recoverable_pct": 1.9
+    },
+    "issues": [
+        {
+            "root_cause": "Vendor Price Escalation",
+            "count": 600,
+            "exposure": 21252440.06,
+            "recommended_action": "Renegotiate pricing or request vendor justification"
+        }
+    ]
+}

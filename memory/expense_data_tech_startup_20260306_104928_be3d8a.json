@@ -1,0 +1,19 @@
+{
+    "file_id": "expense_data_tech_startup_20260306_104928_be3d8a",
+    "timestamp": "2026-03-06T10:49:28.575487",
+    "summary": {
+        "total_spend": 7312240,
+        "financial_exposure": 169285.81,
+        "recoverable_savings": 101571.5,
+        "exposure_pct": 2.32,
+        "recoverable_pct": 1.39
+    },
+    "issues": [
+        {
+            "root_cause": "Vendor Price Escalation",
+            "count": 35,
+            "exposure": 169285.81,
+            "recommended_action": "Renegotiate pricing or request vendor justification"
+        }
+    ]
+}

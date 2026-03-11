@@ -1,0 +1,19 @@
+{
+    "file_id": "expense_data_healthcare_20260306_045911_06a7a9",
+    "timestamp": "2026-03-06T04:59:11.362606",
+    "summary": {
+        "total_spend": 48429686,
+        "financial_exposure": 971951.48,
+        "recoverable_savings": 583170.91,
+        "exposure_pct": 2.01,
+        "recoverable_pct": 1.2
+    },
+    "issues": [
+        {
+            "root_cause": "Vendor Price Escalation",
+            "count": 35,
+            "exposure": 971951.48,
+            "recommended_action": "Renegotiate pricing or request vendor justification"
+        }
+    ]
+}

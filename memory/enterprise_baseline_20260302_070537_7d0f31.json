@@ -1,0 +1,25 @@
+{
+    "file_id": "enterprise_baseline_20260302_070537_7d0f31",
+    "timestamp": "2026-03-02T07:05:37.081694",
+    "summary": {
+        "total_spend": 1240000,
+        "financial_exposure": 495000,
+        "recoverable_savings": 14250.0,
+        "exposure_pct": 39.92,
+        "recoverable_pct": 1.15
+    },
+    "issues": [
+        {
+            "root_cause": "High-Value Transaction Outlier",
+            "count": 1,
+            "exposure": 400000.0,
+            "recommended_action": "Review approval and justification for high-value spend"
+        },
+        {
+            "root_cause": "Unusual Spending Pattern Detected",
+            "count": 1,
+            "exposure": 95000.0,
+            "recommended_action": "Investigate unusual transaction pattern"
+        }
+    ]
+}

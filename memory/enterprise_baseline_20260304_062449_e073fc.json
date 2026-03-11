@@ -1,0 +1,19 @@
+{
+    "file_id": "enterprise_baseline_20260304_062449_e073fc",
+    "timestamp": "2026-03-04T06:24:49.548545",
+    "summary": {
+        "total_spend": 1240000,
+        "financial_exposure": 10687.5,
+        "recoverable_savings": 3206.25,
+        "exposure_pct": 0.86,
+        "recoverable_pct": 0.26
+    },
+    "issues": [
+        {
+            "root_cause": "Unusual Spending Pattern Detected",
+            "count": 1,
+            "exposure": 10687.5,
+            "recommended_action": "Investigate unusual transaction pattern"
+        }
+    ]
+}

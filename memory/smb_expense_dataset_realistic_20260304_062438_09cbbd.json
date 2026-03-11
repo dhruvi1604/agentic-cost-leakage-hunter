@@ -1,0 +1,25 @@
+{
+    "file_id": "smb_expense_dataset_realistic_20260304_062438_09cbbd",
+    "timestamp": "2026-03-04T06:24:38.453622",
+    "summary": {
+        "total_spend": 539595.63,
+        "financial_exposure": 38987.15,
+        "recoverable_savings": 22290.44,
+        "exposure_pct": 7.23,
+        "recoverable_pct": 4.13
+    },
+    "issues": [
+        {
+            "root_cause": "High-Value Transaction Outlier",
+            "count": 2,
+            "exposure": 3672.83,
+            "recommended_action": "Review approval and justification for high-value spend"
+        },
+        {
+            "root_cause": "Vendor Price Escalation",
+            "count": 16,
+            "exposure": 35314.32,
+            "recommended_action": "Renegotiate pricing or request vendor justification"
+        }
+    ]
+}
