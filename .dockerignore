@@ -1,0 +1,12 @@
+#your whole git history. Useless inside the image, can be surprisingly huge. 
+.git          
+
+# your local Python packages. The image installs its own via pip install -r requirements.txt, so copying yours is wasted megabytes (and Windows packages don't even work on Linux!).
+venv/          
+
+#  compiled Python junk, regenerated automatically.
+__pycache__/      
+*.pyc
+
+#the security one. Even though this laptop has no .env yet, the day you create one, this line is already standing guard.
+.env       
