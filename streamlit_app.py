@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 from dotenv import load_dotenv
 
 load_dotenv()
+# CI/CD pipeline added — testing auto-build.
 
 # =====================================================
 # PAGE CONFIG
