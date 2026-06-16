@@ -255,7 +255,3 @@ recurring → subscription, is_recurring, auto_renew
 ## 👤 Author
 
 Applied AI & Data Science project demonstrating hybrid anomaly detection, explainable AI, and LLM-powered financial intelligence for SMB expense monitoring.
-
----
-
-<div align="center">⭐ Star this repo if you found it useful</div>
